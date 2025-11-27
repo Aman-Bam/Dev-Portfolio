@@ -2,7 +2,8 @@
 
 Welcome to my personal developer portfolio! This website highlights my work, skills, projects, and background as a software developer. Built using modern technologies, it's fast, responsive, and easy to customize.
 
-![Portfolio Screenshot]  ![Screenshot 2025-07-01 062324](https://github.com/user-attachments/assets/9a560d60-80b8-48ef-bc93-e7be84105cf7)
+[Live link](https://aman-bam.github.io/Dev-Portfolio/) 
+![Screenshot 2025-07-01 062324](https://github.com/user-attachments/assets/9a560d60-80b8-48ef-bc93-e7be84105cf7)
 ![Screenshot 2025-07-01 062338](https://github.com/user-attachments/assets/263b0b33-9a7f-4c3c-8fa5-f66a26a0bb97)
 ![Screenshot 2025-07-01 062350](https://github.com/user-attachments/assets/167579e5-a00c-4327-ad50-c0644115677c)
 ![Screenshot 2025-07-01 062406](https://github.com/user-attachments/assets/9803148d-99e3-4b40-ba2c-a3ec79f5e58b)
